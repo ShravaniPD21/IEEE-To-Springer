@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Overview
-
+ 
 This repository contains the **same research paper formatted in both IEEE and Springer styles**, demonstrating a **complete and accurate conversion from IEEE to Springer format**.
 
 The paper focuses on **Predictive Maintenance of Industrial Motors** using a **low-cost, multi-sensor IoT-based architecture** with edge processing, backend analytics, and mobile visualization.
