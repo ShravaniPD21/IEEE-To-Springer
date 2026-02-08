@@ -5,7 +5,7 @@
 ![IEEE](https://img.shields.io/badge/Format-IEEE-blueviolet)
 ![Springer](https://img.shields.io/badge/Format-Springer-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Platform](https://img.shields.io/badge/Domain-Industrial%20IoT-lightgrey)
+![Platform](https://img.shields.io/badge/Domain-Industrial%20IoT-lightgrey) 
 
 ---
 
